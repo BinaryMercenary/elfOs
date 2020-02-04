@@ -9,7 +9,7 @@ Using the basic dual-mono-chrome mini display kits from ebay/amazon, and an ESP8
 
 The code shared in this repo is ready for your wifi setup, and will display it's IP on boot.  Record the IP and access with a browser.
 
-You can then put up quirky messages to get your younger kids their elf magic.  Inspired by mithril and that Knott's Berry farm jail bird.
+You can then put up quirky messages into the web server's form to display magical elfy messages for your younger kids.  Inspired by the way parents use that knotts berry farm jail bird (and of course, mithril).
 
 ![elf at work](/art/elfPadOnTheJob.JPG)
 
