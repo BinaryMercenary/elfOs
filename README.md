@@ -12,3 +12,7 @@ The code shared in this repo is ready for your wifi setup, and will display it's
 You can then put up quirky messages to get your younger kids their elf magic.  Inspired by mithril and that knotts berry farm jail bird.
 
 ![elf at work](/art/elfPadOnTheJob.JPG)
+
+Background/BOM: Last year I designed an IOT controller to economize when whole house fan runs. 
+I had a tiny lcd laying around from the initial kit (amazon asin B06Y5VHVFY). 
+I attached it to a spare esp8266 (asin B010N1SPRK) and had everything I needed. 
