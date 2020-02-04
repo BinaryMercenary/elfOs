@@ -1,5 +1,5 @@
 # elfOs
-A `magical device` for your elf on the shelf.  So unique it will create it's own landing strip...
+A `magical device` for your elf on the shelf.  So unique it will create its own landing strip...
 
 <img src="art/candyCane.gif" width=100>
 
@@ -9,7 +9,7 @@ Using the basic dual-mono-chrome mini display kits from ebay/amazon, and an ESP8
 
 The code shared in this repo is ready for your wifi setup, and will display it's IP on boot.  Record the IP and access with a browser.
 
-You can then put up quirky messages to get your younger kids their elf magic.  Inspired by mithril and that knotts berry farm jail bird.
+You can then put up quirky messages to get your younger kids their elf magic.  Inspired by mithril and that Knott's Berry farm jail bird.
 
 ![elf at work](/art/elfPadOnTheJob.JPG)
 
